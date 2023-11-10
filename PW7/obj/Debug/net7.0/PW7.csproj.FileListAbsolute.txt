@@ -1,0 +1,14 @@
+C:\Users\yaney\source\repos\PW7\PW7\bin\Debug\net7.0\PW7.exe
+C:\Users\yaney\source\repos\PW7\PW7\bin\Debug\net7.0\PW7.deps.json
+C:\Users\yaney\source\repos\PW7\PW7\bin\Debug\net7.0\PW7.runtimeconfig.json
+C:\Users\yaney\source\repos\PW7\PW7\bin\Debug\net7.0\PW7.dll
+C:\Users\yaney\source\repos\PW7\PW7\bin\Debug\net7.0\PW7.pdb
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.AssemblyInfo.cs
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.dll
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\refint\PW7.dll
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.pdb
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\PW7.genruntimeconfig.cache
+C:\Users\yaney\source\repos\PW7\PW7\obj\Debug\net7.0\ref\PW7.dll
